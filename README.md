@@ -36,8 +36,8 @@ Replace `Almavivabot.py` with the name of your script (e.g., `visa_helper.py`).
 
 ## 👨‍💻 Developer:
 
-**Ahmed Samir**  
-📱 +20 102 910 7547  
+**Vanish Now**  
+📱 +201286016083 
 
 ---
 
