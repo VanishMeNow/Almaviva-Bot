@@ -1,6 +1,6 @@
 
 # Almaviva-Bot  
-بوت ذكي ومتطور يقوم تلقائيًا بحجز مواعيد التأشيرة عبر موقع Almaviva, VFS للحصول على تأشيرة العمل D، بكل سهولة وسرعة ودقة في لحظة نزول المواعيد الرسمية ⏰.
+A smart, advanced bot that automatically books visa appointments through Almaviva and VFS for the D work visa, with ease, speed, and precision the moment official slots are released ⏰
 
 # 🖥️ Visa Helper Tool 🇪🇬  
 A simple Python tool that helps you quickly open visa application websites in Egypt through a simple menu selection.
